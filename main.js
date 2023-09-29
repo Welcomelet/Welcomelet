@@ -1,1 +1,1 @@
-alert("Main.js Has Been injected!");
+console.log("Main.js Has Been injected!");
